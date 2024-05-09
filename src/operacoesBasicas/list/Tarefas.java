@@ -1,4 +1,4 @@
-package list;
+package operacoesBasicas.list;
 
 public class Tarefas {
     
@@ -12,5 +12,8 @@ public class Tarefas {
         this.descricao = descricao;
     }
     
-    
+    @Override
+    public String toString() {
+        return descricao;
+    }
 }
