@@ -50,7 +50,7 @@ public class CarrinhoDeCompras {
 
         cdc.calcularValorTotal();
 
-        cdc.removerItem("Papel");
+        cdc.removerItem("Jornal");
 
         cdc.exibirItens();
 
