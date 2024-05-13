@@ -35,6 +35,7 @@ public class OrdenacaoNumeros {
         on.adicionarNumero(2);
         on.adicionarNumero(5);
         on.adicionarNumero(4);
+        on.adicionarNumero(6);
 
         System.out.println(on.ordenarAscendente());
         System.out.println(on.ordenarDescendente());
