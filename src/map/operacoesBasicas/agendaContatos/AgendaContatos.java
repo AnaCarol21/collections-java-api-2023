@@ -1,4 +1,4 @@
-package map.operacoesBasicas;
+package map.operacoesBasicas.agendaContatos;
 
 import java.util.HashMap;
 import java.util.Map;
